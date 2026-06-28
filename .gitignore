@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# Backup files
+*.bak
+*.orig
+
+# Local notes (don't share my drafts)
+NOTES.local.md
+TODO.local.md
